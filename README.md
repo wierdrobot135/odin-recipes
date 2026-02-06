@@ -1,0 +1,1 @@
+Flynn is a 11 year old coder who lives in mechanicsville, va. he is learning to write code through the odin project.Learn more at theodinproject.com
